@@ -67,9 +67,9 @@ params:
               url: tags
 
     # home-info mode
-    homeInfoParams:
-        Title: "Opa! \U0001F44B"
-        Content: Seja bem vindo!
+    # homeInfoParams:
+    #    Title: "Opa! \U0001F44B"
+    #    Content: Seja bem vindo!
 
     #socialIcons:
     #    - name: twitter
@@ -88,7 +88,7 @@ params:
             SiteVerificationTag: "XYZabc"
 
     cover:
-        hidden: true # hide everywhere but not in structured data
+        hidden: false # hide everywhere but not in structured data
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 

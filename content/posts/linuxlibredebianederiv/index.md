@@ -3,7 +3,13 @@ draft: false
 resources: []
 title: Instalando o Kernel Linux-Libre no Debian e derivados
 pubdate: now
-
+cover:
+    image: "imgs/100gnu+freedo.png"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 ![](https://web.archive.org/web/20180918221520im_/http://www.fsfla.org/ikiwiki/selibre/linux-libre/100gnu+freedo.png)
 
