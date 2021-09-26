@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on LibreForte</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>https://thiagofmendonca.github.io/posts/</link>
     <description>Recent content in Posts on LibreForte</description>
     <image>
       <url>https://i.pinimg.com/736x/bc/39/bc/bc39bc7b135e5e7277aa7fc69f6aae36--supply-chain-blog-design.jpg</url>
       <link>https://i.pinimg.com/736x/bc/39/bc/bc39bc7b135e5e7277aa7fc69f6aae36--supply-chain-blog-design.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thiagofmendonca.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalando o Kernel Linux-Libre no Debian e derivados</title>
-      <link>https://examplesite.com/posts/linuxlibredebianederiv/</link>
+      <link>https://thiagofmendonca.github.io/posts/linuxlibredebianederiv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/linuxlibredebianederiv/</guid>
+      <guid>https://thiagofmendonca.github.io/posts/linuxlibredebianederiv/</guid>
       <description>DISCLAIMER MEGA IMPORTANTE!!!
 Esta página será atualizada sempre que houver uma mudança na documentação oficial localizada em: https://jxself.org/linux-libre/  O projeto linux-libre nasceu da necessidade da comunidade de manter em seus sistemas GNU um kernel livres de blobs proprietários, o linux-libre é o resultado do trabalho dessa comunidade, entregando assim um kernel 100% livre. Hoje nós vamos ver como instalar ele no Debian Jessie (e derivados).
 As always, clique na imagem para conhecer a página do projeto.</description>
