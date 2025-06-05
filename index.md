@@ -11,7 +11,7 @@ permalink: / # Isso garante que este arquivo seja a página inicial
 <address style="text-align: center; margin-bottom: 2em;">
 Rio das Ostras, RJ, Brasil <br>
 (22) 9.9716-0129 <br>
-<a href="mailto:tfariamendonca@gmail.com">tfariamendonca@gmail.com</a> <br>
+E-mail: <a href="mailto:tfariamendonca@gmail.com">tfariamendonca@gmail.com</a> <br>
 LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" rel="noopener noreferrer">linkedin.com/in/thiagofariamendonca</a>
 </address>
 
