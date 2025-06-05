@@ -1,17 +1,19 @@
 ---
 layout: page # Ou 'default' dependendo do seu tema. 'page' é comum no Minima.
-title: Currículo # Este será o título da aba do navegador e possivelmente da página
+title: THIAGO FARIA MENDONÇA # Este será o título da aba do navegador e possivelmente da página
 permalink: / # Isso garante que este arquivo seja a página inicial
 ---
 
-# THIAGO MENDONÇA
+<div class="foto-container" style="text-align: center; margin-bottom: 2em;">
+    <img src="{{ site.baseurl }}/assets/images/minha_foto.jpg" alt="Foto de Thiago Faria Mendonça" style="width: 200px; height: auto; border-radius: 50%; border: 3px solid #ccc;">
+    </div>
 
-<endereco>
+<address style="text-align: center; margin-bottom: 2em;">
 Rio das Ostras, RJ, Brasil <br>
 (22) 9.9716-0129 <br>
 <a href="mailto:tfariamendonca@gmail.com">tfariamendonca@gmail.com</a> <br>
-LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank">linkedin.com/in/thiagofariamendonca</a>
-</endereco>
+LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" rel="noopener noreferrer">linkedin.com/in/thiagofariamendonca</a>
+</address>
 
 ## RESUMO PROFISSIONAL
 
@@ -28,7 +30,7 @@ Profissional de TI com mais de 15 anos de experiência, especializado em Suporte
 ### Técnico de Implantação de Sistemas | SD Sistemas
 *Jul 2023 - Jun 2024 | Cabo Frio, RJ*
 - Colaborei diretamente com clientes finais na preparação de equipes e no estabelecimento/aplicação de procedimentos operacionais para novos sistemas.
-- Mantive equipamentos de Tl de clientes e forneci suporte técnico abrangente no local, garantindo a continuidade dos negócios.
+- Mantive equipamentos de TI de clientes e forneci suporte técnico abrangente no local, garantindo a continuidade dos negócios.
 - Implementei com sucesso os sistemas SD Super e SD PDV, incluindo módulos relacionados, para múltiplos clientes.
 - Configurei e gerenciei ambientes Windows Server e Linux Server (Ubuntu), incluindo permissões, atualizações e monitoramento básico.
 - Administrei bancos de dados Firebird para aplicações críticas de clientes, realizando backups e verificações de integridade.
@@ -49,7 +51,7 @@ Profissional de TI com mais de 15 anos de experiência, especializado em Suporte
 ### Gerente de TI | Terrali Móveis Planejados
 *Mar 2012 - Ago 2018 | Conceição de Macabu, RJ*
 - Liderei a equipe de TI, supervisionando as áreas de suporte e infraestrutura para garantir o atendimento às demandas da empresa.
-- Planejei e executei projetos de Tl alinhados aos objetivos estratégicos da empresa, gerenciando recursos e prazos.
+- Planejei e executei projetos de TI alinhados aos objetivos estratégicos da empresa, gerenciando recursos e prazos.
 - Desenvolvi e mantive aplicações internas para suportar e otimizar operações críticas de negócio.
 - Implementei rotinas de backup e monitoramento de servidores (Linux, Windows Server), contribuindo para a estabilidade do ambiente.
 
@@ -83,5 +85,4 @@ Profissional de TI com mais de 15 anos de experiência, especializado em Suporte
 - **Inglês:** Avançado (Leitura, Escrita e Conversação)
 
 ---
-_
-[Baixar Currículo em PDF](/assets/Curriculo_Thiago_Mendonca_2025_Atualizado.pdf)_
+_[Baixar Currículo em PDF](/assets/Curriculo_Thiago_Mendonca_2025_Atualizado.pdf)_
