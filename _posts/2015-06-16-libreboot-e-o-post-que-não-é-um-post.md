@@ -1,0 +1,9 @@
+---
+title: "Libreboot e o post que não é um post"
+date: 2015-06-16
+original_url: http://acesso.me/blog/libreboot-e-o-post-que-nao-e-um-post/
+layout: post
+---
+
+Olá turma, tudo beleza?
+O post de hoje é improvisado e bem curtinho porque o tempo está apertado.Alguns leitores do blog sabem que eu comprei um Thinkpad X60S a poucos dias e que ando brincando com ele (estou digitando este post nele pra ser bem sincero), porém, eu não comprei ele só porque é bonitinho pra caramba e porque gosto de máquina velha... eu o comprei porque ele é, no custo beneficio, um dos melhores netbooks com suporte ao libreboot, solução livre ao firmware proprietário de inicialização do computador... Além disso, fora a placa wi-fi, todo o resto do equipamento é out of the box, compativel com distribuições GNU/Linux livres de verdade, como o Trisquel e o Parabola (estou usando Parabola no momento).Pois bem, hoje farei minha primeira tentativa de instalar o libreboot na criança, no pior cenário, eu bricko o netbook e ele vira peso pra papel... no melhor dos cenários, terei um hardware que roda software livre em sua totalidade, desde o boot até o pentelho do byte da jpeg de mulher pelada... coisa linda...Por conta disso, desde a hora que cheguei em casa hoje, estou parado polegando ele, e não tenho previsão de conclusão, uma vez que, se o processo der "xabu", eu tenho que corrigir as tretas na hora... por conta desse pequeno fato, não irei falar sobre nenhum tema especifico hoje, só estou dando um disclaimer sobre minha atividade desta noite e deixando aqui uma imagem da criança (rodando trisquel) e o guia que estou seguindo (em inglês, caso dê certo, muito provavelmente o primeiro passo a passo em pt-br será meu) e eu volto aqui depois com um post completo contando como foi a experiência.Grande abraço a todos, até a próxima e tchau!Tutorial em inglês: http://libreboot.org/docs/install/index.html#flashrom\_lenovobios

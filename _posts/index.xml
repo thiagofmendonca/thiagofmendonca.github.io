@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on LibreForte</title>
+    <link>https://thiagofmendonca.github.io/posts/</link>
+    <description>Recent content in Posts on LibreForte</description>
+    <image>
+      <url>https://i.pinimg.com/736x/bc/39/bc/bc39bc7b135e5e7277aa7fc69f6aae36--supply-chain-blog-design.jpg</url>
+      <link>https://i.pinimg.com/736x/bc/39/bc/bc39bc7b135e5e7277aa7fc69f6aae36--supply-chain-blog-design.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thiagofmendonca.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dir2ogg | Salvando seu suado espaço em disco</title>
+      <link>https://thiagofmendonca.github.io/posts/dir2ogg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagofmendonca.github.io/posts/dir2ogg/</guid>
+      <description>Howdy cowboys! Tudo em riba?
+Seguinte, não tenho como falar por todo mundo, só por mim mesmo, mas a situação é a seguinte: Eu tenho uma enorme biblioteca de áudio. Sim, músicas e músicas, discografias inteiras, podcasts e mais podcasts&amp;hellip; tudo arquivado. Me chame de acumulador digital se quiser, e provavelmente sou mesmo! Mas não estamos aqui para julgar a loucura dos amiguinhos, certo?
+A segunda, ainda na questão dos discos rígidos, é o espaço &amp;ldquo;gasto&amp;rdquo; pela acumulação&amp;hellip; No que diz respeito a áudios em geral, normalmente se consegue por quaisquer meios que se decidir, arquivos em .</description>
+    </item>
+    
+    <item>
+      <title>Instalando o Kernel Linux-Libre no Debian e derivados</title>
+      <link>https://thiagofmendonca.github.io/posts/linuxlibredebianederiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagofmendonca.github.io/posts/linuxlibredebianederiv/</guid>
+      <description>DISCLAIMER MEGA IMPORTANTE!!!
+Esta página será atualizada sempre que houver uma mudança na documentação oficial localizada em: https://jxself.org/linux-libre/  O projeto linux-libre nasceu da necessidade da comunidade de manter em seus sistemas GNU um kernel livres de blobs proprietários, o linux-libre é o resultado do trabalho dessa comunidade, entregando assim um kernel 100% livre. Hoje nós vamos ver como instalar ele no Debian Jessie (e derivados).
+As always, clique na imagem para conhecer a página do projeto.</description>
+    </item>
+    
+  </channel>
+</rss>

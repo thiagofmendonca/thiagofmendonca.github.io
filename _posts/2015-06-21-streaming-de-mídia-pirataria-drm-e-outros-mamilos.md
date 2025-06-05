@@ -1,0 +1,51 @@
+---
+title: "Streaming de mídia, pirataria, drm e outros #mamilos"
+date: 2015-06-21
+original_url: http://acesso.me/blog/streaming-de-midia-pirataria-drm-e-outros-mamilos/
+layout: post
+---
+
+Salve salve turma boa, como vai o fim de semana? Voando? O meu já foi... Alguém ae usa algum serviço de streaming de mídia? Claro que usa... hoje eu quero falar um pouquinho da minha opinião sobre esses e outros temas bem #mamilos. Bora?
+
+![](/assets/images/image_1749062431161.jpg)
+
+Imagem das interwebs
+
+Antes de começar a despejar palavras aqui em baixo eu quero deixar bem claro a todos os leitores que isso aqui é tudo opinião pessoal baseada em experiências próprias e estudos próprios. Minha intenção não é me passar por uma autoridade no assunto e sim levantar a discussão sobre o tema. Simbora bora?
+
+Se você está lendo esse texto online você provavelmente já usou algum serviço de streaming de mídia, é quase impossível não ter usado, não é mesmo? Se você acompanha meus posts e vê os vídeos que eu posto aqui ou por algum acaso do destino clicou na minha página de músicas, você automaticamente já está usando serviços de streaming de mídia. Se você vê vídeos no youtube, Vimeo, NetFlix, escuta músicas no Spotify, Jamendo, GNUfm, Rdio ou qualquer coisa do gênero, se você assiste Live Streams no TwitchTv, TweetCam se você usa qualquer um desses serviços e mais uma infinidade de outros, você está consumindo arquivos multimídia via streaming. O que isso quer dizer?
+
+Que você não possui o arquivo e o está executando a partir de outro lugar.
+
+É isso ai. Sem tirar, nem por.
+E qual é o problema disso? Bom, se ali no título do texto eu disse que o assunto era#mamilos, é por conta de situações que algumas empresas e pessoas impõem em cima de certos serviços desses. Ficou complexo de entender? Vamos lá.
+
+Aqui no site existem diversos posts com vídeos, correto? Alguns deles no youtube (temporariamente, graças a indicações de amigos descobri uma alternativa bacana que falarei abaixo), alguns no goblin refuge, alguns no meu próprio servidor e alguns em servidores de terceiros. Correto? Não importando onde esses arquivos estejam, o objetivo deles é um só, passar informação para vocês. Correto? Porém, vamos supor que vocês queiram por qualquer motivo efetuar o download de quaisquer arquivos desses. Bom, todos os meus posts estão licenciados sob uma licença Creative Commons onde você pode copiar meu conteúdo todo, modificar ele e redistribuir, desde que me cite como fonte e utilize a mesma licença no seu conteúdo modificado. Então eu estou autorizando vocês a fazer isso, correto? Porém, o Youtube não permite a você efetuar o download de arquivos do servidor deles que você não seja o dono. Só permite a execução dos mesmos. Mas espera ai... eu distribuo meu conteúdo sob uma licença, o Youtube não, e agora? Como fica? Simples, é só baixar o arquivo, não é mesmo? Hoje em dia não é necessário nem um programa instalado, basta acessar um site como o keep vid, colar a URL e esperar o download finalizar. Porém, nos termos de uso do Youtube isso é ilegal! Basicamente você está infringindo os termos de uso da plataforma ao baixar um vídeo meu. Claro, eu não estou nem ai pra você baixar o conteúdo, quero mais é que baixe mesmo, mas a plataforma de Streaming de conteúdo não concorda comigo e nem contigo. E agora?
+
+Outra situação referente a serviços de streaming. Você vai lá e assina o NetFlix, a assinatura do serviço te dá acesso a centenas e centenas de títulos, correto? Desde que você esteja online e logado na plataforma. Mas espera, e se eu só tiver uma internet bacana no trabalho? E se eu quiser indicar um filme para um amigo meu que não tem grana pra bancar a assinatura? Como fica? Há de se supor que, uma vez que você está pagando a assinatura do serviço, aqueles itens são seus, o que acontece na realidade é bem diferente disso, o Netflix te cobra pra te "emprestar" aquele conteúdo enquanto você está ali online. Mais uma vez, existem diversas formas de baixar esse conteúdo, porém, pelos termos de uso do serviço (que pede dados bancários,m endereço de cobrança, nome real, CPF e mais uma pá de coisa) é ilegal você ter no sentido literal da palavra, acesso a esse tipo de conteúdo.
+
+Indo para outro lado, temos a Steam que eu falei a poucos posts atrás. A Steam é hoje a maior plataforma de distribuição de jogos em mídia digital para computadores no mundo todo! As diferenças de preço entre um jogo de PC na Steam e o mesmo título para um console qualquer chega a assustar! Dark Souls 2 por exemplo, a versão completa dela, a Scholar of the first sin, para PS3/PS4 (não é cross buy, se quiser para os dois, compra duas vezes) está saindo a R$179 (ps3) e R$199 (ps4), Na steam está saindo a R$99,00... Chega a ser piada a diferença de preço! E a Steam ainda está desenvolvendo a Steam OS, sistema operacional baseado no Debian Unstable (assim como o Ubuntu) como plataforma central para sua linha de computadores/consoles, as Steam Machines! Olhando por alto, a empresa é quase uma heroína para os jogadores, não é mesmo? Só que não... Embora a Steam faça excelentes preços para seus jogadores, faça Sales gigantes todo ano com jogos com até 90% de desconto, embora ela faça toda essa facilidade para você, ela te impede de ser dono daquele conteúdo. Você só pode jogar jogos comprados na Steam à partir do cliente Steam, se você tem mais de um computador, só um pode estar logado naquela conta por vez, você se quiser "emprestar" um jogo para um amigo ou passa a sua conta pra ele ou transfere sua compra pra ele e ele pode ou não te devolver... Mais uma vez, amarras.
+
+Antes de continuar, eu sim uso e já usei muito o Netflix, o Youtube, a Steam e tantos outros serviços que eu poderia citar aqui e o texto ficaria tão grande que ficaria impossível de ler, o problema é o conceito de propriedade de conteúdo. Você só é dono de alguma coisa se você é livre pra decidir o que fazer com ela.
+
+Não adianta tentar mudar o conceito, se você é dono de algo, você decide o que fazer com ele, é simples assim. Agora, se você usa algum dos serviços que eu citei, você simplesmente não é dono de nada! Só está tirando do seu bolso dinheiro para "alugar" conteúdo!
+
+Ai entra a questão da pirataria. Vamos supor que você concorde comigo até aqui e comece a questionar o papel dessas empresas... Como fazer pra consumir esse tipo de conteúdo? A resposta mais rápida seria: Não consuma! Utilize serviços e consuma produtos que te permite adquirir propriedade sobre eles (de graça para não uso comercial ou paga para qualquer tipo de uso por exemplo) e esqueça o main stream... mas isso é complicado, não é mesmo? Se você está realmente cansado de pagar para consumir conteúdo que não é seu para fazer o que você quiser, ou se você não pode pagar por um tipo de conteúdo que irá de transferir propriedade sobre ele (como comprar um disco por exemplo) minha dica pra você é: Pirateie... isso mesmo...
+
+Polêmico demais? Vamos lá... O plano mais barato do netflix custa 17 reais por mês eu acho, ele não te dá direito a conteúdo em alta definição, te dá duas telas simultâneas e só. Abrir o pirate bay ou o kickass te consome 30seg, você escolhe o conteúdo que mais te agrada na qualidade que mais de apetece e aguarda o download dele por X tempo dependendo da sua internet. Após o download você vai atrás de legendas caso o conteúdo não seja dublado, depois você corre atrás de um player para aquele formato. Então no serviço de streaming pago você paga, clica e vê. Pirateando você baixa, configura, testa e vê. Mais demorado? Sim, Mas o quanto você está salvando no seu orçamento?
+
+Claro, você pode me dizer que piratear o novo disco do Metallica ou o novo Vingadores não dá dinheiro nenhum as produtoras de conteúdo. Seus 17 reais por mês para o Netflix retornam quanto dos milhões e milhões gastos na produção daquele conteúdo às produtoras? 1, 2 reais? menos? Músico lança disco mas ganha dinheiro com show. Produtora de filmes e séries ganha dinheiro com cinema e TV... Você está tirando dinheiro das pessoas que não querem que você seja dona do conteúdo... porque pensa comigo, se o Spotify passa para a Som livre por exemplo, metade do valor da sua assinatura mensal (é bem menos do que isso, pode ter certeza), quanto você acha que vai chegar no artista? Supondo que a assinatura seja de 20 reais/mês, 10 reais vai para a produtora, 2 para o artista (com sorte) o que esse artista faz com esses dois reais?
+
+Claro, existem casos e casos, o Jamendo por exemplo. No jamendo toda e qualquer música disponibilizada lá é gratuita para consumo, você pode ouvir no site e pode baixar ela e levar para qualquer lugar! Pode copiar, passar para os amiguinhos, pode fazer o que você quiser e DE GRAÇA! Agora, se você quiser usar ela comercialmente, você clica em um botão e paga o preço padrão por aquela música... ela é SUA e de mais ninguém para usar em vídeos, filmes, qualquer coisa que você queira... E a grana vai direto para o artista! Não tem intermediário!
+
+Se o seu negócio é multimidia em geral, tem os servidores que rodam media goblin como o https://goblinrefuge.com/mediagoblin/ que estou passando a utilizar agora, ele é de graça para uso e permite subir arquivos sob quaisquer licenças que você quiser e o arquivo original para download fica ali no canto direito, basta clicar e baixar!
+
+Se você possui dinheiro para comprar músicas e boxes de DVDs/BluRays e etc, faça, ripe-os no seu PC e use da forma que bem entender!
+
+O ponto é, você não precisa ser escravo de empresas de "empréstimo" de multimidia... dá para lutar contra esse movimento da indústria por coisas mais justas para nós consumidores.
+
+Eu recomendo a todos que avaliem o texto acima individualmente, ele vai de encontro á muitos conceitos que eu venho lutando pra entender ao longo da minha vida toda e o mesmo também acontece com vocês.
+
+Espero que a mensagem tenha sido clara e que vocês tenha conseguido algo pra pensar. Até a próxima, fiquem na paz .
+
+O trabalho **Streaming de mídia, pirataria, drm e outros #mamilos** de [Thiago Faria Mendonça](https://web.archive.org/web/20170112192525/http://acesso.me/acesso/) está licenciado com uma Licença[Creative Commons – Atribuição 4.0 Internacional](https://web.archive.org/web/20170112192525/https://creativecommons.org/licenses/by/4.0/).
