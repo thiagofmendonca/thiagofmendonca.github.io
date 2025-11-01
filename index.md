@@ -4,6 +4,10 @@ title: Thiago Faria Mendonça
 permalink: /
 ---
 
+<div class="foto-container" style="text-align: center; margin-bottom: 2em;">
+    <img src="{{ site.baseurl }}/assets/images/minha_foto.jpg" alt="Foto de Thiago Faria Mendonça" style="width: 200px; height: auto; border-radius: 50%; border: 3px solid #ccc;">
+    </div>
+
 <div style="text-align: center; padding: 1em 0;">
     <h1 style="margin-top: 0; text-align: center;">Especialista em TI, Suporte Técnico</h1>
     <p style="font-size: 1.2em; margin: 0.5em 0; text-align: center;">Soluções em tecnologia, administração de sistemas e automação para seu negócio.</p>
