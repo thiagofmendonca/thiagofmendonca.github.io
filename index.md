@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Thiago Mendonça - Especialista em Suporte Técnico
+title: Thiago Faria Mendonça
 permalink: /
 ---
 
+<div style="text-alin: center; padding: 1em 0;">
+    <h1 style="margin-top: 0;">Especialista em TI, Suporte Técnico</h1>
+</div>
 <div style="text-align: center; padding: 1em 0;">
 
     <h2 style="margin-top: 0;">Serviços Oferecidos</h2>
