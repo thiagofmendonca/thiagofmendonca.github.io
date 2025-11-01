@@ -18,7 +18,7 @@ LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" 
 ## RESUMO PROFISSIONAL
 
 - Profissional com sólida experiência em consultoria técnica, atuando 100% remoto em projetos nacionais e internacionais.
-- Inglês avançado (C2 TOEFL), com excelente comunicação e vivência em ambientes multiculturais.
+- Inglês avançado (C1 TOEFL), com excelente comunicação e vivência em ambientes multiculturais.
 - Forte capacidade de autogestão, liderança e entrega de resultados sob acordos de confidencialidade (NDA).
 - Flexível para atuar em empresas de qualquer porte, com disponibilidade para remuneração em moeda estrangeira.
 
