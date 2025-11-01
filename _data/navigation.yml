@@ -1,8 +1,8 @@
 - title: Home
   url: /
+- title: Blog
+  url: /artigos/
 - title: Currículo
   url: /curriculo/
-- title: Artigos
-  url: /artigos/
 - title: Resume (CV)
   url: /cv/
