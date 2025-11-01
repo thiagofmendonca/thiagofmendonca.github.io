@@ -14,7 +14,7 @@ permalink: /
             Conheça meu Currículo
         </a>
 
-        <a href="{{ site.baseurl }}/blog/" style="display: inline-block; padding: 12px 25px; margin: 10px; background-color: #555; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
+        <a href="{{ site.baseurl }}/artigos/" style="display: inline-block; padding: 12px 25px; margin: 10px; background-color: #555; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
             Acesse o Blog
         </a>
 
