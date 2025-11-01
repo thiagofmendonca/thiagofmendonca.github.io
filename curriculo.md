@@ -1,6 +1,6 @@
 ---
 layout: page # Ou 'default' dependendo do seu tema. 'page' é comum no Minima.
-title: THIAGO FARIA MENDONÇA # Este será o título da aba do navegador e possivelmente da página
+title: Currículo # Este será o título da aba do navegador e possivelmente da página
 permalink: /curriculo/ # Isso garante que este arquivo seja a página inicial
 ---
 

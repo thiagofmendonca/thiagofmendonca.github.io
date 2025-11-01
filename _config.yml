@@ -7,3 +7,7 @@ theme: minima
 
 # Outras configurações...
 github_username: thiagofmendonca # Pode ser útil para alguns temas
+
+header_pages:
+  - curriculo.md
+  - blog.md
