@@ -5,7 +5,19 @@ permalink: /
 ---
 
 <div style="text-align: center; padding: 2em 0;">
-    
+
+
+    <hr style="max-width: 100px; margin: 2em auto;">
+
+    <h2>Serviços Oferecidos</h2>
+    <ul style="list-style-type: none; padding: 0; max-width: 400px; margin: 1em auto; text-align: left;">
+        <li style="padding: 5px 0;">✅ Suporte Técnico e Troubleshooting</li>
+        <li style="padding: 5px 0;">✅ Administração de Servidores (Linux & Windows)</li>
+        <li style="padding: 5px 0;">✅ Automação de Processos (Python & Bash)</li>
+        <li style="padding: 5px 0;">✅ Manutenção de Banco de Dados (SQL)</li>
+    </ul>
+
+
     <p style="font-size: 1.2em;">Soluções em tecnologia, administração de sistemas e automação para seu negócio.</p>
 
     <div class="botoes-home" style="margin: 2.5em 0;">
@@ -24,14 +36,6 @@ permalink: /
 
     </div>
 
-    <hr style="max-width: 100px; margin: 2em auto;">
-
-    <h2>Serviços Oferecidos</h2>
-    <ul style="list-style-type: none; padding: 0; max-width: 400px; margin: 1em auto; text-align: left;">
-        <li style="padding: 5px 0;">✅ Suporte Técnico e Troubleshooting</li>
-        <li style="padding: 5px 0;">✅ Administração de Servidores (Linux & Windows)</li>
-        <li style="padding: 5px 0;">✅ Automação de Processos (Python & Bash)</li>
-        <li style="padding: 5px 0;">✅ Manutenção de Banco de Dados (SQL)</li>
-    </ul>
+    
 
 </div>
