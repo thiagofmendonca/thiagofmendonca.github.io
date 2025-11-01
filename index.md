@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Thiago Mendonça - Serviços de TI
+title: Thiago Mendonça - Especialista em Suporte Técnico
 permalink: /
 ---
 
 <div style="text-align: center; padding: 2em 0;">
-
-    <h1>Thiago Mendonça - Suporte de TI Freelance</h1>
+    
     <p style="font-size: 1.2em;">Soluções em tecnologia, administração de sistemas e automação para seu negócio.</p>
 
     <div class="botoes-home" style="margin: 2.5em 0;">
