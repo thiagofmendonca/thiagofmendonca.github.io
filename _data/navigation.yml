@@ -1,5 +1,7 @@
 # _data/navigation.yml
-- title: Currículo
+- title: Home
   url: /
-- title: Artigos # Mude o título do link se desejar
-  url: /artigos/ # <--- ATUALIZE ESTA URL
+- title: Currículo
+  url: /curriculo/
+- title: Blog
+  url: /blog/
