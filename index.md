@@ -14,6 +14,10 @@ permalink: /
             Conheça meu Currículo
         </a>
 
+        <a href="{{ site.baseurl }}/cv/" style="display: inline-block; padding: 12px 25px; margin: 10px; background-color: #333; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
+            Check out my CV
+        </a>
+
         <a href="{{ site.baseurl }}/artigos/" style="display: inline-block; padding: 12px 25px; margin: 10px; background-color: #555; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
             Acesse o Blog
         </a>
