@@ -18,7 +18,7 @@ LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" 
 ## PROFESSIONAL SUMMARY
 
 - Professional with solid experience in technical consulting, working 100% remotely on national and international projects.
-- Advanced English (C2 TOEFL), with excellent communication and experience in multicultural environments.
+- Advanced English (C1 TOEFL), with excellent communication and experience in multicultural environments.
 - Strong self-management, leadership, and results delivery capabilities under non-disclosure agreements (NDA).
 - Flexible to work in companies of any size, with availability for remuneration in foreign currency.
 

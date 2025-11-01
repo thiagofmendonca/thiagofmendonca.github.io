@@ -3,11 +3,7 @@ email: tfariamendonca@gmail.com
 description: Histórico profissional e artigos do meu blog pessoal
 url: "https://thiagofmendonca.github.io"
 baseurl: "" # Importante: string vazia para um repositório de usuário/organização
-theme: minima 
+theme: jekyll-theme-hamilton 
 
 # Outras configurações...
 github_username: thiagofmendonca # Pode ser útil para alguns temas
-
-header_pages:
-  - curriculo.md
-  - artigos.md

@@ -1,9 +1,8 @@
-# _data/navigation.yml
 - title: Home
   url: /
-- title: CV - PT-BR
+- title: Currículo
   url: /curriculo/
-  tile: CV - EN-US
+- title: Artigos
+  url: /artigos/
+- title: Resume (CV)
   url: /cv/
-- title: Blog
-  url: /blog/
