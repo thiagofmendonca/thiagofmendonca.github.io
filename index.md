@@ -4,11 +4,12 @@ title: Thiago Faria Mendonça
 permalink: /
 ---
 
-<div style="text-alin: center; padding: 1em 0;">
-    <h1 style="margin-top: 0;">Especialista em TI, Suporte Técnico</h1>
-</div>
 <div style="text-align: center; padding: 1em 0;">
+    <h1 style="margin-top: 0; text-align: center;">Especialista em TI, Suporte Técnico</h1>
+    <p style="font-size: 1.2em; margin: 0.5em 0; text-align: center;">Soluções em tecnologia, administração de sistemas e automação para seu negócio.</p>
+</div>
 
+<div style="text-align: center; padding: 1em 0;">
     <h2 style="margin-top: 0;">Serviços Oferecidos</h2>
     <ul style="list-style-type: none; padding: 0; max-width: 400px; margin: 0.5em auto; text-align: left;">
         <li style="padding: 3px 0;">✅ Suporte Técnico e Troubleshooting</li>
@@ -18,8 +19,6 @@ permalink: /
     </ul>
 
     <hr style="max-width: 100px; margin: 1em auto;">
-
-    <p style="font-size: 1.2em; margin: 0.5em 0;">Soluções em tecnologia, administração de sistemas e automação para seu negócio.</p>
 
     <div class="botoes-home" style="margin: 1.5em 0;">
         <a href="{{ site.baseurl }}/curriculo/" style="display: inline-block; padding: 10px 20px; margin: 5px; background-color: #333; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
@@ -34,5 +33,4 @@ permalink: /
             Acesse o Blog
         </a>
     </div>
-
 </div>
