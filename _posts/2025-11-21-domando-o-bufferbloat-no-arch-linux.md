@@ -21,7 +21,7 @@ O `curl`, downloader padrão do `pacman`, é um monstro. Ele tenta usar toda a b
 
 ### A Solução: Trocando o Cavalo e Limitando a Corrida
 
-A beleza do Arch Linux (e do Linux em geral) é que quase tudo é configurável. A solução foi dizer ao `pacman` para parar de usar o `curl` e, em vez disso, usar o bom e velho `wget`, que tem uma função maravilhosa de limitar a velocidade.
+A beleza do Arch Linux (e do GNU/Linux em geral) é que quase tudo é configurável. A solução foi dizer ao `pacman` para parar de usar o `curl` e, em vez disso, usar o bom e velho `wget`, que tem uma função maravilhosa de limitar a velocidade.
 
 A cirurgia é simples. Abra o arquivo `/etc/pacman.conf` com seu editor de texto favorito (como root, claro):
 
