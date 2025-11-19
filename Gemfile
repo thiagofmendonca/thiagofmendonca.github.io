@@ -17,6 +17,10 @@ gem "jekyll-theme-hamilton"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-sitemap"
+  gem "jekyll-seo-tag"
+  gem "jekyll-paginate"
+  gem "jekyll-archives"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
