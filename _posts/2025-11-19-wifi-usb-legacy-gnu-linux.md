@@ -1,3 +1,9 @@
+---
+title: "Wifi Legado no GNU/Linux - Problemas de energia e conexão"
+date: 2025-11-19
+original_url: https://thiagofmendonca.github.io/2025/11/19/wifi-usb-legacy-gnu-linux.html
+layout: post
+---
 Olá hackers de plantão!
 
 Hoje vamos falar sobre teimosia, hardware legado e como o Linux pode ser domado se você souber onde apertar. Vamos às situações de hoje:
