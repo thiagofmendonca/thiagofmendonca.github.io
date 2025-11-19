@@ -1,6 +1,8 @@
 ---
 layout: "page"
 title: "Artigos"
+pagination:
+  enabled: true
 ---
 
 {% for post in paginator.posts %}
