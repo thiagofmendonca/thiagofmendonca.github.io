@@ -10,7 +10,7 @@ permalink: /cv/
 
 <address style="text-align: center; margin-bottom: 2em;">
 Available for global remote work <br>
-Phone: <a href="tel:+5522997160129">+55 (22) 9.9716-0129</a> <br>
+Phone: <a href="tel:+5522991047300">+55 (22) 9.9104-7300</a> <br>
 Email: <a href="mailto:tfariamendonca@gmail.com">tfariamendonca@gmail.com</a> <br>
 LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" rel="noopener noreferrer">linkedin.com/in/thiagofariamendonca</a>
 </address>

@@ -10,7 +10,7 @@ permalink: /curriculo/
 
 <address style="text-align: center; margin-bottom: 2em;">
 Disponível para trabalho remoto global <br>
-Telefone: <a href="tel:+5522997160129">(22) 9.9716-0129</a> <br>
+Telefone: <a href="tel:+5522991047300">(22) 9.9104-7300</a> <br>
 E-mail: <a href="mailto:tfariamendonca@gmail.com">tfariamendonca@gmail.com</a> <br>
 LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" rel="noopener noreferrer">linkedin.com/in/thiagofariamendonca</a>
 </address>
