@@ -24,8 +24,15 @@ LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" 
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-### Consultor Técnico Freelance - Remoto
+### Professor de Inglês | KNN Idiomas
+*Jan 2026 - Atual*
+- Ensino de língua inglesa para diferentes níveis, com foco em conversação e gramática aplicada.
+- Desenvolvimento de planos de aula personalizados e acompanhamento do progresso dos alunos.
+
+### Consultor Técnico Freelance | Remoto
 *(Atual)*
+- **Especialista em AI Labeling & Treinamento de Modelos (2024 - Atual):** Focado no treinamento de modelos de IA para resolução de problemas complexos de desenvolvimento (ênfase em Python, JavaScript e TypeScript).
+- Participação em projetos de larga escala em 2026, com mais de 100 tasks aprovadas "acima das expectativas" em critérios de qualidade e precisão técnica.
 - Atuação em projetos de automação, infraestrutura e suporte técnico para clientes nacionais e internacionais.
 - Responsável por autogestão, comunicação direta com clientes e entrega de soluções sob NDA.
 - Liderança de equipes e coordenação de projetos remotos.
