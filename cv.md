@@ -24,8 +24,15 @@ LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" 
 
 ## PROFESSIONAL EXPERIENCE
 
-### Freelance Technical Consultant - Remote
+### English Teacher | KNN Idiomas
+*Jan 2026 - Present*
+- Teaching English to different levels, focusing on conversation and applied grammar.
+- Developing personalized lesson plans and tracking student progress.
+
+### Freelance Technical Consultant | Remote
 *(Current)*
+- **AI Labeling & Model Training Specialist (2024 - Present):** Focused on training AI models to solve complex development problems (emphasis on Python, JavaScript, and TypeScript).
+- Participated in large-scale projects in 2026, with over 100 tasks approved "above expectations" for technical quality and precision.
 - Engaged in automation, infrastructure, and technical support projects for national and international clients.
 - Responsible for self-management, direct client communication, and solution delivery under NDA.
 - Team leadership and remote project coordination.
