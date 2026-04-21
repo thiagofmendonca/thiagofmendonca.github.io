@@ -2,17 +2,14 @@
 layout: page
 title: Resume
 permalink: /cv/
+description: Professional resume of Thiago Mendonça - IT Specialist, Technical Support and Automation Expert. Experienced in Linux, Windows Server, and Cloud environments.
 ---
-
-<div class="foto-container" style="text-align: center; margin-bottom: 2em;">
-    <img src="{{ site.baseurl }}/assets/images/minha_foto.jpg" alt="Foto de Thiago Faria Mendonça" style="width: 200px; height: auto; border-radius: 50%; border: 3px solid #ccc;">
-    </div>
 
 <address style="text-align: center; margin-bottom: 2em;">
 Available for global remote work <br>
 Phone: <a href="tel:+5522991047300">+55 (22) 9.9104-7300</a> <br>
 Email: <a href="mailto:tfariamendonca@gmail.com">tfariamendonca@gmail.com</a> <br>
-LinkedIn: <a href="https://linkedin.com/in/thiagofariamendonca" target="_blank" rel="noopener noreferrer">linkedin.com/in/thiagofariamendonca</a>
+LinkedIn: <a href="https://www.linkedin.com/in/tfmendonca/" target="_blank" rel="noopener noreferrer">linkedin.com/in/tfmendonca</a>
 </address>
 
 ## PROFESSIONAL SUMMARY

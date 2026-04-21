@@ -1,7 +1,17 @@
-title: Thiago Mendonça
+title: Thiago Mendonça | Especialista em TI & Suporte Técnico
 email: tfariamendonca@gmail.com
-description: Histórico profissional e artigos do meu blog pessoal
+description: Especialista em TI com foco em infraestrutura, suporte técnico avançado, administração de servidores Linux/Windows e automação com Python. Disponível para projetos globais.
 url: "https://thiagofmendonca.github.io"
+author: Thiago Mendonça
+linkedin: tfmendonca
+
+# Configurações de Redes Sociais para SEO
+social:
+  name: Thiago Mendonça
+  links:
+    - https://github.com/thiagofmendonca
+    - https://www.linkedin.com/in/tfmendonca/
+
 baseurl: "" # Importante: string vazia para um repositório de usuário/organização
 theme: jekyll-theme-hamilton
 skin: midnight

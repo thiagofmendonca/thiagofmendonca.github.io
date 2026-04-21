@@ -2,6 +2,7 @@
 layout: page
 title: Thiago Faria Mendonça
 permalink: /
+description: Especialista em TI e Suporte Técnico com vasta experiência em Linux, Windows Server, Automação (Python/Bash) e infraestrutura de TI. Conheça meu histórico profissional e artigos.
 ---
 
 <div class="foto-container" style="text-align: center; margin-bottom: 2em;">
