@@ -5,6 +5,9 @@ permalink: /curriculo/
 description: Currículo profissional de Thiago Mendonça - Especialista em TI, Suporte Técnico Nível 2 e Automação. Experiência em Linux, Windows e ambientes de nuvem.
 ---
 
+<h1 style="text-align: center; margin-bottom: 0;">Thiago Faria Mendonça</h1>
+<p style="text-align: center; font-size: 1.2em; margin-top: 5px;">Especialista em TI | Suporte Técnico | Automação</p>
+
 <address style="text-align: center; margin-bottom: 2em;">
 Disponível para trabalho remoto global <br>
 Telefone: <a href="tel:+5522991047300">(22) 9.9104-7300</a> <br>

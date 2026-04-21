@@ -5,6 +5,9 @@ permalink: /cv/
 description: Professional resume of Thiago Mendonça - IT Specialist, Technical Support and Automation Expert. Experienced in Linux, Windows Server, and Cloud environments.
 ---
 
+<h1 style="text-align: center; margin-bottom: 0;">Thiago Faria Mendonça</h1>
+<p style="text-align: center; font-size: 1.2em; margin-top: 5px;">IT Specialist | Technical Support | Automation</p>
+
 <address style="text-align: center; margin-bottom: 2em;">
 Available for global remote work <br>
 Phone: <a href="tel:+5522991047300">+55 (22) 9.9104-7300</a> <br>
